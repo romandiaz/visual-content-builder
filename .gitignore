@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VS Code and other editors
+.vscode/
+.idea/
+
+# Electron specific
+out/
+electron-out/
